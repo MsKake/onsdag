@@ -1,0 +1,8 @@
+C:\Users\scott\OneDrive\Skrivebord\Kode\d\d\bin\Debug\d.exe.config
+C:\Users\scott\OneDrive\Skrivebord\Kode\d\d\bin\Debug\d.exe
+C:\Users\scott\OneDrive\Skrivebord\Kode\d\d\bin\Debug\d.pdb
+C:\Users\scott\OneDrive\Skrivebord\Kode\d\d\obj\Debug\d.csproj.AssemblyReference.cache
+C:\Users\scott\OneDrive\Skrivebord\Kode\d\d\obj\Debug\d.csproj.SuggestedBindingRedirects.cache
+C:\Users\scott\OneDrive\Skrivebord\Kode\d\d\obj\Debug\d.csproj.CoreCompileInputs.cache
+C:\Users\scott\OneDrive\Skrivebord\Kode\d\d\obj\Debug\d.exe
+C:\Users\scott\OneDrive\Skrivebord\Kode\d\d\obj\Debug\d.pdb
